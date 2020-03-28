@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  myapp-a:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-03-28T17:20:58.736115073Z"
+    description: A Helm chart for Kubernetes
+    digest: 716ed427b9e8e15536214c5e8bd76e2a9a3bf1c5006c23bac485c0458452284b
+    name: myapp-a
+    type: application
+    urls:
+    - https://github.com/dsbrng25b/charts/releases/download/myapp-a-0.1.1/myapp-a-0.1.1.tgz
+    version: 0.1.1
+  myapp-b:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-03-28T17:20:58.836129996Z"
+    description: A Helm chart for Kubernetes
+    digest: 44bd5199357c277e31112774cff45a6f1e23f88a9dd83a1f64f32543e8a69d5c
+    name: myapp-b
+    type: application
+    urls:
+    - https://github.com/dsbrng25b/charts/releases/download/myapp-b-0.1.2/myapp-b-0.1.2.tgz
+    version: 0.1.2
+generated: "2020-03-28T17:20:58.628590664Z"
